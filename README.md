@@ -30,4 +30,3 @@
 
    ```bash
    git clone https://github.com/yourusername/chat-neural-network.git
-   cd chat-neural-network
